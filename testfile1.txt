@@ -1,0 +1,4 @@
+Hi my name is Rohit.
+
+ git config --global user.email "rs624392@gmail.com"
+  git config --global user.name "rohitsharma2007"
